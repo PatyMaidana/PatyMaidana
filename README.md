@@ -9,13 +9,15 @@
 
 - 📫 Como me encontrar **patricia.rmaidana@gmail.com**
 
-- 📄 Minhas Experiências [https://www.linkedin.com/in/patricia-rosa-maidana-a38660103/](https://www.linkedin.com/in/patricia-rosa-maidana/)
+- 📄 Minhas Experiências [www.linkedin.com/in/patricia-rosa-maidana](www.linkedin.com/in/patricia-rosa-maidana)
 
 - ⚡ Sobre Mim **Arte Educadora em transição de carreira**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/patymaidana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="patymaidana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/patricia-rosa-maidana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricia-rosa-maidana" height="30" width="40" /></a>
+<a href="https://discord.gg/evorasantiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="evorasantiago" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
