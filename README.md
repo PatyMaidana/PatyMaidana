@@ -9,7 +9,7 @@
 
 - 📫 Como me encontrar **patricia.rmaidana@gmail.com**
 
-- 📄 Minhas Experiências [https://www.linkedin.com/in/patricia-rosa-maidana-a38660103/](https://www.linkedin.com/in/patricia-rosa-maidana-a38660103/)
+- 📄 Minhas Experiências [https://www.linkedin.com/in/patricia-rosa-maidana-a38660103/](https://www.linkedin.com/in/patricia-rosa-maidana/)
 
 - ⚡ Sobre Mim **Arte Educadora em transição de carreira**
 
