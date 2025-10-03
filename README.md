@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
-- 🔭 No momento estudo na Alura **Oracle One**
+- 🔭 No momento estudo na Alura **Oracle One** e na EBAC **Análise de Dados**
 
-- 📝 Aprendendo **Phyton, Sql, PowerBi**
+- 📝 Aprendendo **HTML, CSS, JavaScript, Java, Phyton, Sql, Google Sheets**
 
 - 📫 Como me encontrar **patricia.rmaidana@gmail.com**
 
 - 📄 Minhas Experiências [www.linkedin.com/in/patricia-rosa-maidana](www.linkedin.com/in/patricia-rosa-maidana)
 
-- ⚡ Sobre Mim **Arte Educadora em transição de carreira**
+- ⚡ Sobre Mim **DEV Front-End, Back-End Java e Análise de Dados em curso, background em Arte-Educação e Suporte a clientes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
