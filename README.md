@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Patricia Rosa Maidana</h1>
-<h3 align="center">Estudante de análise de dados e backend Phyton</h3>
+<h3 align="center">Dev Front-End - Estudante de análise de dados e backend </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
