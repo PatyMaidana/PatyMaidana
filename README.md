@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
 - 🔭 No momento estudo na Alura **Oracle One** e na EBAC **Análise de Dados**
+- 
 
 - 📝 Aprendendo **HTML, CSS, JavaScript, Java, Phyton, Sql, Google Sheets**
 
