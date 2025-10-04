@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Patrícia, mas pode me chamar de Paty</h1>
-<h3 align="center">Dev Front-End, estudando Back-End e Análise de Dados</h3>
+<h3 align="center">Dev Front-End, estudando Back-End e Análise de Dados, com Background em Educação e Suporte</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
