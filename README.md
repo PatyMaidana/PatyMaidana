@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
-- 🌱 No momento estou estudando **Alura Back-End(Java); Ebac-Análise de Dados (Phyton, SQL, Google Sheets)**
+- 🌱 No momento estou estudando **Alura Back-End(Java); Ebac-Análise de Dados (Phyton, SQL, Google Sheets) e JavaScript (aprofundamento)**
+- Em breve teremos mais projetos resultado desses estudos por aqui! Aguardem... :)
 
 - 📫 Como me encontrar? **patricia.rmaidana@gmail.com**
 
