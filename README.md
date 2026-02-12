@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou a Patricia, mas pode me chamar de Paty</h1>
-<h3 align="center">Dev Front-End, estudando Back-End JAVA</h3>
+<h3 align="center">Dev Full Stack em formação JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
-- 🌱 No momento estou estudando **Alura Back-End(Java); Ebac-Análise de Dados (Phyton, SQL, Google Sheets)**
+- 🌱 No momento estou estudando na **FATEC Jacareí - Desenvolvimento de Software Multiplataforma, na Alura - Back-End(Java); Ebac-Análise de Dados (Phyton, SQL, Google Sheets)**
 
 - 👨‍💻 Meu porfólio é aqui no GiHub [https://github.com/PatyMaidana](https://github.com/PatyMaidana)
 
-- 💬 Sobre Mim **Sou Desenvolvedora Front-End Júnior com base em HTML5, CSS3 e JavaScript (ES6+), atualmente aprofundando em React.js. Ex-professora com mais de 10 anos de experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
+- 💬 Sobre Mim **Sou Desenvolvedora Júnior com base em HTML5, CSS3 e JavaScript (ES6+), atualmente estudando Java e React.js. Ex-professora com mais de 10 anos de experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
 
 - 📫 Como me encontrar? **patricia.rmaidana@gmail.com**
 
