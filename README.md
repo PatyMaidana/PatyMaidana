@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
-- 🌱 No momento estou estudando na **FATEC Jacareí - Desenvolvimento de Software Multiplataforma, na Alura - Back-End(Java); Ebac-Análise de Dados (Phyton, SQL, Google Sheets)**
+- 🌱 No momento estou estudando na **FATEC Jacareí - Desenvolvimento de Software Multiplataforma, na Alura - Back-End(Java)**
 
 - 👨‍💻 Meu porfólio é aqui no GiHub [https://github.com/PatyMaidana](https://github.com/PatyMaidana)
 
