@@ -7,7 +7,7 @@
 
 - 👨‍💻 Meu porfólio é aqui no GiHub [https://github.com/PatyMaidana](https://github.com/PatyMaidana)
 
-- 💬 Sobre Mim **Sou Desenvolvedora Júnior com base em HTML5, CSS3 e JavaScript (ES6+), atualmente estudando Java e React.js. Ex-professora com mais de 10 anos de experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
+- 💬 Sobre Mim **Sou Desenvolvedora Júnior em formação com base em HTML5, CSS3 e JavaScript, atualmente estudando Java e React.js. Antes da transição de carreira, fui professora por mais de 10 anos com  experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
 
 - 📫 Como me encontrar? **patricia.rmaidana@gmail.com**
 
