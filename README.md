@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Patricia, mas pode me chamar de Paty</h1>
-<h3 align="center">Dev Full Stack em formação JAVA</h3>
+<h3 align="center">Dev Full Stack em formação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patymaidana&label=Profile%20views&color=0e75b6&style=flat" alt="patymaidana" /> </p>
 
