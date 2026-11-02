@@ -7,11 +7,13 @@
 
 - 👨‍💻 Meu porfólio é aqui no GiHub [https://github.com/PatyMaidana](https://github.com/PatyMaidana)
 
-- 💬 Sobre Mim **Sou Desenvolvedora Júnior em formação com base em HTML5, CSS3 e JavaScript, atualmente estudando Java e React.js. Antes da transição de carreira, fui professora por mais de 10 anos com  experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
+- 💬 Sobre Mim **Sou Desenvolvedora Júnior em formação com base em HTML5, CSS3 e JavaScript, atualmente estudando TypeScript, Python e React.js. Antes da transição de carreira, fui professora por mais de 10 anos com  experiência em planejamento, resolução de problemas e comunicação clara, aplico esses aprendizados no desenvolvimento de interfaces acessíveis, responsivas e centradas no usuário. Tenho formação complementar em metodologias ágeis (Scrum, Kanban) e estou expandindo meus conhecimentos em Back-End com Java. Busco atuar em equipes colaborativas, que valorizem código limpo, boas práticas e aprendizado contínuo.**
 
 - 📫 Como me encontrar? **patricia.rmaidana@gmail.com**
 
 - 📄 Quer conhecer minha jornada? Dá um pulo no meu Linkedin [https://www.linkedin.com/in/patricia-rosa-maidana/](https://www.linkedin.com/in/patricia-rosa-maidana/)
+
+- 📄 Tem o portfolio também que está sempre em atualização: https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613003/
 
 - ⚡ Curiosidades sobre mim **Gosto de RPG de mesa, jogos de tabuleiro, SCI-FI, HQ, Animes e lógico, ficar junto de quem amo.**
 
